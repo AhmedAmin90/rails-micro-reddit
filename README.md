@@ -1,7 +1,6 @@
 # Micro-reddit
 
-In this project, I will build an application to mimic Reddit data structures necessary to support link submissions and commenting with only back-end. 
-This application only support one level of comments.
+In this project, I will build an application to mimic the Reddit application which contains Users, Posts, and Comments with only the back-end. This application only supports one level of comments.
 
 
 
